@@ -24,7 +24,7 @@ The project uses data from the [TED Talks Kaggle Dataset](https://www.kaggle.com
 2. **Machine Learning Models**:
    - Logistic Regression (L1, L2, ElasticNet penalties).
    - Gradient Boosting Classifier.
-   - Clustering models (KMeans and DBSCAN).
+   - Clustering models (KMeans++).
    - SpaCy-based text classification.
 
 3. **Clustering and Dimensionality Reduction**:
